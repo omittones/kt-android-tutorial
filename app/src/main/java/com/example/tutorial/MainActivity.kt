@@ -13,7 +13,7 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import java.io.File
 
-const val EXTRA_MESSAGE = "some extra message"
+const val EXTRA_MESSAGE = "extra.message.key"
 
 class MainActivity : AppCompatActivity() {
 
