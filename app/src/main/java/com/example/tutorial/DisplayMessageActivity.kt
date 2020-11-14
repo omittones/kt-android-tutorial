@@ -1,8 +1,10 @@
 package com.example.tutorial
 
+import com.example.tutorial.keys.*
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
+
 
 class DisplayMessageActivity : AppCompatActivity() {
 
